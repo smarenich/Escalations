@@ -1,0 +1,5 @@
+﻿<Table TableName="CRSetup">
+    <Column TableName="CRSetup" ColumnName="UsrNotificationMapID" ColumnType="int" AllowNull="True" IsNewColumn="True" IsUnicode="True" />
+    <Column TableName="CRSetup" ColumnName="UsrEscalationNotificationMapID" ColumnType="int" AllowNull="True" IsNewColumn="True" IsUnicode="True" />
+    <Column TableName="CRSetup" ColumnName="UsrEscalationWorkgroupID" ColumnType="int" AllowNull="True" IsNewColumn="True" IsUnicode="True" />
+</Table>
